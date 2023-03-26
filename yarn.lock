@@ -1056,6 +1056,11 @@
     "@ethersproject/properties" "^5.0.0"
     "@ethersproject/strings" "^5.0.0"
 
+"@flareswap/v2-core@^4.0.0":
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/@flareswap/v2-core/-/v2-core-4.0.0.tgz#693dbf91e9b04ed649d8926425851fde39f5558d"
+  integrity sha512-7Ofc9stO+LLiX2KxEAvwG4D0FpEqZ9Xx9B/rZOs71GB4a2mReGLSgUy7X20mhmzrSC5gNulgQvBCaFDjExDAxw==
+
 "@jest/console@^24.7.1", "@jest/console@^24.9.0":
   version "24.9.0"
   resolved "https://registry.yarnpkg.com/@jest/console/-/console-24.9.0.tgz#79b1bc06fb74a8cfb01cbdedf945584b1b9707f0"
@@ -1452,11 +1457,6 @@
     lodash "^4.17.15"
     semver "^7.3.2"
     tsutils "^3.17.1"
-
-"@flareswap/v2-core@4.0.0", "@flareswap/v2-core@^4.0.0":
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/@flareswap/v2-core/-/v2-core-4.0.0.tgz#693dbf91e9b04ed649d8926425851fde39f5558d"
-  integrity sha512-7Ofc9stO+LLiX2KxEAvwG4D0FpEqZ9Xx9B/rZOs71GB4a2mReGLSgUy7X20mhmzrSC5gNulgQvBCaFDjExDAxw==
 
 abab@^2.0.0:
   version "2.0.3"
